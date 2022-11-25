@@ -16,4 +16,4 @@ Part 1:
 Part 2:
 - Cross validation
 - Undersampling: Cluster Centroids (0.76,0.76,0.76) (53 min)
-- Oversampling: SMOTE 
+- Oversampling: SMOTE (0.91,0.90,0.91)
