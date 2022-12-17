@@ -23,3 +23,4 @@ Part 2:
 - feature engineering : selectKBest( pending) 
  
 *Model explanation
+* No performance improvement upon feature engineering
